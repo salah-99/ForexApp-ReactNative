@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461133046051",
+    "project_id": "forex-c9b69",
+    "storage_bucket": "forex-c9b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461133046051:android:9ce1b4682ab5d1a7b5ec96",
+        "android_client_info": {
+          "package_name": "com.sample.myforex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461133046051-1iibogkdt994iii87viqvkqjh7q0l72o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa0gCY_0LvAKotahjP85e7uMBXybhli0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461133046051-1iibogkdt994iii87viqvkqjh7q0l72o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

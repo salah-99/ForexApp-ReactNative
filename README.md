@@ -1,1 +1,0 @@
-# ForexApp-ReactNative
